@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Marcelo-Mysql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Marcelo-Apache" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">     <img align="center" alt="Marcelo-Angular" height="60" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Marcelo-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Marcelo-Jenkins" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img align="center" alt="Marcelo-Azure" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img align="center" alt="Marcelo-Jenkins" height="60" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" />
-           
+       
 </div>
   
   ##
