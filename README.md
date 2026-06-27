@@ -1,6 +1,7 @@
 <!--
   Marcelo Domingues — GitHub Profile README
   Tip: edit the intro bullets below to taste, then they show under "About me".
+     Last touched via a small profile README tidy-up.
 -->
 
 <div align="center">
